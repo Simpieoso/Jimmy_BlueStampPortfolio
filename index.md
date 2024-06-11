@@ -48,15 +48,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-HU 054A Calculator
-Components Used - 1x Intergraded Circuit, 1x Display, 17x Input Buttons, 1x Capacitor, 1x Circuit Board, 1x Battery, 1x Battery Holder, 1x Diodes
-How it works - The HU054A operates using a combination of electronic components including an integrated circuit which functions as the brain, processing all calculations. When a button on the keypad is pressed, it sends a signal to the IC, which then processes this input based on pre-programmed instructions to perform arithmetic operations. The results are then displayed on an LCD screen. This entire process is powered by a battery.
-Technical Progress - 
-- Technical progress you've made so far
-Challenges and Obsticals - During the assembly of the HU054A Calculator, I encountered several challenges that tested my technical skills and patience. One major issue arose when I incorrectly installed the battery, which initially prevented the device from powering on. Identifying and correcting this error required careful examination and adjustment of the battery placement in its holder. Additionally, installing the integrated circuit presented its own set of difficulties. The circuit had to be precisely aligned with the pin configuration on the circuit board; any misalignment could potentially damage the delicate pins or result in malfunctioning of the calculator. These challenges emphasized the importance of meticulous attention to detail and the need for a steady hand when working with such compact and sensitive electronic components.
-- Challenges you're facing and solving in your future milestones
-- Plan
-- What your plan is to complete your project
+My first milestone for my main project in creating a DIY air quality monitor involves the physical assembly of the device. I began by gathering all necessary hardware components, including sensors and a microcontroller. The assembly started with soldering headers onto the Feather boards and sensors for secure connections. Next, I wired these components together according to the detailed circuit diagram provided in the guide. Later, I will secure the finished hardware components into a secure box, this step will be done after the software has been coded. I will print this secure box using 3d printing programs. This step is crucial as it ensures the stability and durability of the monitor under various environmental conditions.
 
 # Starter Project
 
