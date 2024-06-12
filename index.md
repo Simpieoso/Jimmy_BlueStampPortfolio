@@ -1,5 +1,5 @@
 # Jimmy Profoltio
-The Air Pollution Monitor project, an initiative that marks a significant step forward in the fight against environmental pollution. This project was developed with the aim of providing accurate and real-time data on air quality, using a sophisticated network of integrated sensors and advanced data analytics.
+The Air Pollution Monitor project, an initiative that marks a significant step forward in the fight against environmental pollution. This project primarly aims to provide accurate and real-time data on air quality, using a sophisticated network of integrated sensors like the feather m4 express, airlift feather wings, bme280, and also allows advanced data analytics using Adafruit IO.
 
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
