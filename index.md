@@ -67,19 +67,15 @@ This code is made by
 <a href="https://www.geeksforgeeks.org/make-simple-calculator-using-python/">Geeks for Geeks</a>
 
 <code>
-# Function to add two numbers
 def add(num1, num2):
 	return num1 + num2
 
-# Function to subtract two numbers
 def subtract(num1, num2):
 	return num1 - num2
-
-# Function to multiply two numbers
+ 
 def multiply(num1, num2):
 	return num1 * num2
 
-# Function to divide two numbers
 def divide(num1, num2):
 	return num1 / num2
 
@@ -89,7 +85,6 @@ print("Please select operation -\n" \
 		"3. Multiply\n" \
 		"4. Divide\n")
 
-# Take input from the user
 select = int(input("Select operations form 1, 2, 3, 4 :"))
 
 number_1 = int(input("Enter first number: "))
