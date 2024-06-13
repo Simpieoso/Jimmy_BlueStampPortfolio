@@ -37,15 +37,14 @@ Don't forget to replace the text below with the embedding for your milestone vid
 
 # First Milestone
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-](https://www.youtube.com/watch?v=kjlHnoHY3A0&list=PLe-u_DjFx7etk6dyDuivrw-gQGhkx9TJL&index=23)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjlHnoHY3A0?si=sTwXQprJ3-yaH7-C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```For your first milestone, describe what your project is and how you plan to build it. You can include:```
 My first milestone for my main project in creating a DIY air quality monitor involves the physical assembly of the device. I began by gathering all necessary hardware components, including sensors and a microcontroller. The assembly started with soldering headers onto the Feather boards and sensors for secure connections. Next, I wired these components together according to the detailed circuit diagram provided in the guide. Later, I will secure the finished hardware components into a secure box, this step will be done after the software has been coded. I will print this secure box using 3d printing programs. This step is crucial as it ensures the stability and durability of the monitor under various environmental conditions.
 
 # Starter Project
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FpjrL7eSlqs?si=zQi_qSDIt7_3NV4C&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpjrL7eSlqs?si=uih6pWuu2X0zysOI&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 HU 054A Calculator
 Components Used: 1x Intergraded Circuit, 1x Display, 17x Input Buttons, 1x Capacitor, 1x Circuit Board, 1x Battery, 1x Battery Holder, 1x Diodes
