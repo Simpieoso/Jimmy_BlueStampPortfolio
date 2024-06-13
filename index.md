@@ -39,7 +39,7 @@ Don't forget to replace the text below with the embedding for your milestone vid
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kjlHnoHY3A0?si=sTwXQprJ3-yaH7-C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-```For your first milestone, describe what your project is and how you plan to build it. You can include:```
+<!-- For your first milestone, describe what your project is and how you plan to build it. You can include: -->
 My first milestone for my main project in creating a DIY air quality monitor involves the physical assembly of the device. I began by gathering all necessary hardware components, including sensors and a microcontroller. The assembly started with soldering headers onto the Feather boards and sensors for secure connections. Next, I wired these components together according to the detailed circuit diagram provided in the guide. Later, I will secure the finished hardware components into a secure box, this step will be done after the software has been coded. I will print this secure box using 3d printing programs. This step is crucial as it ensures the stability and durability of the monitor under various environmental conditions.
 
 # Starter Project
