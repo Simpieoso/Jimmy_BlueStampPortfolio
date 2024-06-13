@@ -62,9 +62,11 @@ Lastly, upon reinstalling the battery, and careful installation of the integrate
 
 # Code
 
-```python
-# Python program for simple calculator
 
+This code is made by 
+<a href="https://www.geeksforgeeks.org/make-simple-calculator-using-python/">Geeks for Geeks</a>
+
+```# Python program for simple calculator
 # Function to add two numbers
 def add(num1, num2):
 	return num1 + num2
