@@ -46,13 +46,16 @@ My first milestone for my main project in creating a DIY air quality monitor inv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FpjrL7eSlqs?si=uih6pWuu2X0zysOI&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Summary
 HU 054A Calculator
 Components Used: 1x Intergraded Circuit, 1x Display, 17x Input Buttons, 1x Capacitor, 1x Circuit Board, 1x Battery, 1x Battery Holder, 1x Diodes
 
 The assembly of my starter project the HU054A Calculator involved many complications. As a result, I studied about each component and how they contributed to the functions of the calculator. First, I learned about intergrated circuits (IC) which serves as the central processing unit, processing all of the arithmetic calculations. Secondly, I implimented keypads and labeled them with numbers to identify them. Upon pressing a button on the keypad, a signal will be transmitted to the IC. Amazingly, with its pre-set programming, it conducts basic arithmetic operations in seconds, and the outcomes of which are shown on an LCD screen. This entire operational sequence is powered by a battery.
 
+## Challenges 
 Through the construction of my starter project, I learned many crucial lessons and gained invaluable educational experiences. To be able to successfully assemble my project, I honed my soldering techniques, and deepened my understanding of the roles of each electronic components that I will use such as resistors which limit the amount of voltages that go through the circuit, and capacitors that temporarily store electrical energy. Additionally, I developed essential troubleshooting skills to resolve any possible setbacks during my project. These steps formed a critical foundation for me towards the assembly of components in this project.
 
+## Schematics
 Throughout the assembly process of the HU054A Calculator, I faced a series of challenges and setbacks that tested my technical abilities and patience. A significant obstacle emerged when I improperly installed the battery. To resolve this issue, I carefully inspected and adjusted the battery’s placement within its compartment. Additionally, mounting the integrated circuit into the protective casing proved challenging; it required careful installation and exact alignments with the pin configuration on the circuit board, as any deviation could potentially break the fragile pins.
 
 Lastly, upon reinstalling the battery, and careful installation of the integrated circuit,  I conducted multiple power tests and functionality checks to ensure that my calculator is working correctly.
@@ -120,10 +123,10 @@ else:
 | Adafruit BME280 I2C | Measuring Environmental Condition | $14.95 | <a href="https://www.amazon.com/Adafruit-BME280-Temperature-Humidity-Pressure/dp/B013W1AJUY/ref=sr_1_1?crid=22XKT4EI6O3OH&dib=eyJ2IjoiMSJ9.oeZY4mNmH8Va9ODhjTA2CTFM7DP8o2WHvwCKsIa9N8sUChLpZD14RJZPrGGmml_p-bPppjz0UMe88JdVoRJy_n_szLZWR2xR8R7399NiwRMlSJ9hKhv7ppn-rxhrueVci455iLgV2Zy-jF5h2v0ECfpwj9gndDY63yEpg4ujUgkw354EQkgMvr5tjyb6ypuLdeXVLFzwOnlAG2WzD0yly9C8p8hpzYqlW-17WkMF3Dc.omSIxoc0xIJYtVbjd2BoMkuC5xnfWWkAj6vJWrYiQbM&dib_tag=se&keywords=Adafruit+BME280+I2C&qid=1718292855&sprefix=pm2.5+air+quality+sensor+and+breadboard+adapter+kit%2Caps%2C129&sr=8-1">Link</a> |
 | FeatherWing Doubler | Extend The Functionality of Adafruit Feather Boards | $7.50 | <a href="https://www.amazon.com/FeatherWing-Doubler-Prototyping-Add-Feather/dp/B01B2GZF64/ref=sr_1_1?crid=2L1DAIHPE8XUY&dib=eyJ2IjoiMSJ9.Ts6UwLVLy6DpVXyU82IK0T-kAE_QXWjHP-UohHSD4wjGjHj071QN20LucGBJIEps.ahIec1G_1-xkqKioH5hcjtljz4To8MEXtN-oUbjf3Kg&dib_tag=se&keywords=FeatherWing+Doubler&qid=1718292880&sprefix=adafruit+bme280+i2c%2Caps%2C906&sr=8-1">Link</a> |
 
-# Other Resources/Examples
+<!-- # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1] [https://trashytuber.github.io/YimingJiaBlueStamp/](https://deringur.github.io/BSE_Derin_Portfolio/)
 - [Example 2] [(https://sviatil0.github.io/Sviatoslav_BSE/)](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 3] [(https://arneshkumar.github.io/arneshbluestamp/)](https://sviatil0.github.io/Sviatoslav_BSE/)
 
-To watch the BSE tutorial on how to create a portfolio, click <a href="https://sites.google.com/bluestampengineering.com/student-wiki/portfolio-milestone-video-instructions?authuser=0">here</a>
+To watch the BSE tutorial on how to create a portfolio, click <a href="https://sites.google.com/bluestampengineering.com/student-wiki/portfolio-milestone-video-instructions?authuser=0">here</a> -->
