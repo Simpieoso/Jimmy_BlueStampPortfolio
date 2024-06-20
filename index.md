@@ -22,18 +22,12 @@ Don't forget to replace the text below with the embedding for your milestone vid
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE -->
 
-<!-- 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/1OoLK4JQN5g?si=7qq-D7-nLPcYEM4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ```For your second milestone, explain what you've worked on since your previous milestone. You can highlight:```
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone -->
+For my second milestone, I planned to finish setting up the software for my project. It didn’t end up going as planned. I faced many obstacles and setbacks. For example,  the instructions I was given were unclear and incorrect and it led to problems with the wiring. I couldn’t connect my air particle sensor to the rest of the hardware due to this and this led me to learn more about each type of pin and I ended up resoldering multiple wires from the incorrect ports to the correct ones. Later I tested the code that was given to me for my project and unfortunately it also ended up being incorrect, the code was outdated and many files that were necessary for the project to function were not provided. To solve this problem, I had to write most of the new code. The original code had roughly 150 lines of code and after debugging and rewriting the code, it ended up at roughly 200 lines of code. With the help of other students that are doing the same project and through the guidance of our instructors we succeeded in debugging and reconstructing the project. In the end all the hardware and software were fixed and the project uploaded data to the website.
 
 # First Milestone
 
