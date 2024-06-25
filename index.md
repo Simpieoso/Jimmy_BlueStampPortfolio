@@ -27,7 +27,7 @@ As for my challenges, I would like to talk about my challenges on both my start 
 
 ## Blueprints
 
-<img src="https://ibb.co/BjKkGHy" alt="Calculator Image" style="550px">
+<img src="qwe.png" alt="Calculator Image" style="550px">
 
 
 <!--
