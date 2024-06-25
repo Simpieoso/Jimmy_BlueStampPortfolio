@@ -64,8 +64,9 @@ Some challenges I faced during my first milestone was the soldering. I had burnt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FpjrL7eSlqs?si=uih6pWuu2X0zysOI&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Summary
-HU 054A Calculator
+<!-- HU 054A Calculator
 Components Used: 1x Intergraded Circuit, 1x Display, 17x Input Buttons, 1x Capacitor, 1x Circuit Board, 1x Battery, 1x Battery Holder, 1x Diodes
+-->
 
 Before I began building my starter project, I learned how to solder and wire through one of my instructors and I was pretty bad at it at first. After some practice and improvement, I started my project. At first I worked efficently and diligently but around half way done I realized I had soldered some of the wires incorrectly or some soldering was incomplete, this lead me to redo most of my soldering and in general it was a lot of wasted time. After some troubleshooting and helpful tips from the instructors, I was able to fix my issues and proceed onto the software. The code for the calculator was surprisingly simple due to the project being programmed in python which allows for simple arithmetic functions with little to no effort. Not long after setting up the code for my project, I started testing to see if it works as intended. It did not. After careful examination, I noticed the battery being too far away from the battery slot and I had to resolder the slot to fit the battery in. This project gave me plenty of problems and errors; however, that wasn't all of it, I found it enjoyable and entertaining. I felt very motivated when I began working on this project and once I finished it I felt complete and content with what I built.
 
