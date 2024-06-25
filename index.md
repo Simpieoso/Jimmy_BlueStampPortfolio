@@ -10,7 +10,7 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OoLK4JQN5g?si=Lf8_twR83oalOYw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```For your final milestone, explain the outcome of your project. Key details to include are:```
 
@@ -22,6 +22,12 @@ For my final milestone, I planned to begin designing my enclosure and also colle
 
 As for my challenges, I would like to talk about my challenges on both my start and main project on my final milestone and also the challenges I've faced at BSE. My start project was fairly simple and easy to understand, although most of the project involved soldering and not as much software, I still struggled as it was my first time soldering. The most difficult part of my start project was defitnetly the soldering, not because I wasn't profecient in it but rather becase the soldering iron I was given was defective and took a long time to heat and would not reach high enough temperature to melt the soldering iron. All in all, my starter project wasn't too challenging and intead I think it was a fun and enjoyable experience that helped me ease into my main project. During my main project was where I faced the most trouble and complications, the instructions I was given was unclear and incorrect. Multiple steps in the instructions led me further away from completing the project, I worked with an instructor to debug the software and through many hours of debugging, we found out that there were also hardware issues such as, wiring into incorrect slots and missing wires that the instructions caused. It took a lot of time to finish debugging my project and fixing the code, the hardware was fairly easy but still gave me plenty of trouble. All in all, at BSE I believe that through the help of instructos any challenges can be faced. Im glad that I was able to run into these errors as it gave me a learning opportunity and a better way to connect with other students and instructos at BSE.
 
+
+## Blueprints
+
+<img src="https://ibb.co/BjKkGHy" alt="Calculator Image">
+
+
 <!--
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
@@ -31,8 +37,7 @@ As for my challenges, I would like to talk about my challenges on both my start 
 
 # Second Milestone
 
-<iframe width="560" height="315" src="https://youtu.be/1OoLK4JQN5g?si=7qq-D7-nLPcYEM4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OoLK4JQN5g?si=Lf8_twR83oalOYw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Summary
 For my second milestone, I planned to finish setting up the software for my project. It didn’t end up going as planned. I faced many obstacles and setbacks. For example,  the instructions I was given were unclear and incorrect and it led to problems with the wiring. I couldn’t connect my air particle sensor to the rest of the hardware due to this and this led me to learn more about each type of pin and I ended up resoldering multiple wires from the incorrect ports to the correct ones. Later I tested the code that was given to me for my project and unfortunately it also ended up being incorrect, the code was outdated and many files that were necessary for the project to function were not provided. To solve this problem, I had to write most of the new code. The original code had roughly 150 lines of code and after debugging and rewriting the code, it ended up at roughly 200 lines of code. With the help of other students that are doing the same project and through the guidance of our instructors we succeeded in debugging and reconstructing the project. In the end all the hardware and software were fixed and the project uploaded data to the website.
