@@ -49,6 +49,9 @@ I faced many challenges thorughout my second milestone, the instructions I was g
 ## Summary
 My first milestone for my main project in creating a DIY air quality monitor involves the physical assembly of the device. I began by gathering all necessary hardware components, including sensors and a microcontroller. The assembly started with soldering headers onto the Feather boards and sensors for secure connections. Next, I wired these components together according to the detailed circuit diagram provided in the guide. Later, I will secure the finished hardware components into a secure box, this step will be done after the software has been coded. I will print this secure box using 3d printing programs. This step is crucial as it ensures the stability and durability of the monitor under various environmental conditions.
 
+## Challenges
+Some challenges I faced during my first milestone was the soldering. I had burnt one of my boards and to fix it, I replaced it with a newer one and approached it differently this time. I used a differnt soldering tool, I carefully planned where I would solder and how I would do it before I acted. My first milestone consisted of multiple setbacks due to incorrect soldering, as an advice to anyone, I would recommend to plan or test the project fully before the real assemby. My biggest mistake was to not test my project on a bread board before soldering it together. In the end though it all worked out, I was able to solder a different board to my project and it ended up working fine.
+
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FpjrL7eSlqs?si=uih6pWuu2X0zysOI&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
