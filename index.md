@@ -5,7 +5,7 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 |:--:|:--:|:--:|:--:|
 | Jimmy C | Aliso Niguel High School | Engineering | Incoming Senior
 
- <img src="Jimmypng.png" alt="Headshot" style="width:200px">
+ <img src="Jimmypng.png" alt="Headshot" style="width:400px">
 
 # Final Milestone
 
