@@ -72,10 +72,15 @@ Before I began building my starter project, I learned how to solder and wire thr
 ## Challenges 
 Through the construction of my starter project, I learned many crucial lessons and gained invaluable educational experiences. To be able to successfully assemble my project, I honed my soldering techniques, and deepened my understanding of the roles of each electronic components that I will use such as resistors which limit the amount of voltages that go through the circuit, and capacitors that temporarily store electrical energy. Additionally, I developed essential troubleshooting skills to resolve any possible setbacks during my project. These steps formed a critical foundation for me towards the assembly of components in this project.
 
-## Schematics
-Throughout the assembly process of the HU054A Calculator, I faced a series of challenges and setbacks that tested my technical abilities and patience. A significant obstacle emerged when I improperly installed the battery. To resolve this issue, I carefully inspected and adjusted the battery’s placement within its compartment. Additionally, mounting the integrated circuit into the protective casing proved challenging; it required careful installation and exact alignments with the pin configuration on the circuit board, as any deviation could potentially break the fragile pins.
-
-Lastly, upon reinstalling the battery, and careful installation of the integrated circuit,  I conducted multiple power tests and functionality checks to ensure that my calculator is working correctly.
+## Components Used
+1x Intergraded Circuit
+1x Display
+17x Input Buttons
+1x Capacitor
+1x Circuit Board
+1x Battery
+1x Battery Holder
+1x Diodes
 
 # Schematics 
 <img src="https://i.ibb.co/s3NJJN6/Copy-of-Calculator.png" alt="Calculator Image">
