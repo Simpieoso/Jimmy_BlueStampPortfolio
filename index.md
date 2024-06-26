@@ -318,6 +318,17 @@ As for my challenges, I would like to talk about my challenges on both my start 
 
 <img src="Untitled design.png" style="width:450px">
 
+# Bill of Materials
+
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Adafruit Feather M4 Express | Microcontroller Board | $22.95 | <a href="https://www.amazon.com/Adafruit-Feather-M4-Express-Featuring/dp/B07FB365TQ/ref=sr_1_1?crid=2FKMNXNN4WFSM&dib=eyJ2IjoiMSJ9.RcVg2ylFF85s17cYBRQ3E0LiOrgFDOg1Nc9Nnvs4fkKL06mtLBpRg6Q8SMOKfY93xgI2psomqlg1jG80YSajXJDDiAT8cnurmcbTbXirBBTzE66w2iISLA_P8NZU5BQYcSCYhZ9jscGcGi1RkXglIvQnres-_2rqrYlGNULqIMJBMrGdRnsoa6HlQtvqy3ZN6CS54hqqAvLkR04cXa3UYS-K5DgjIX8-7-WGHEoa0OE.UT19JpofY43Aowx7UWdMJRmM-KbZaCbAVaw22vRIYBM&dib_tag=se&keywords=Adafruit+Feather+M4+Express&qid=1718292758&sprefix=%2Caps%2C165&sr=8-1">Link</a> |
+| Adafruit AirLift FeatherWing | Add-on board Designed To Provide Wi-Fi Capabilities to Microcontroller Projects | $12.95 | <a href="https://www.amazon.com/Adafruit-Feather-M4-Express-Featuring/dp/B07FB365TQ/ref=sr_1_1?crid=2FKMNXNN4WFSM&dib=eyJ2IjoiMSJ9.RcVg2ylFF85s17cYBRQ3E0LiOrgFDOg1Nc9Nnvs4fkKL06mtLBpRg6Q8SMOKfY93xgI2psomqlg1jG80YSajXJDDiAT8cnurmcbTbXirBBTzE66w2iISLA_P8NZU5BQYcSCYhZ9jscGcGi1RkXglIvQnres-_2rqrYlGNULqIMJBMrGdRnsoa6HlQtvqy3ZN6CS54hqqAvLkR04cXa3UYS-K5DgjIX8-7-WGHEoa0OE.UT19JpofY43Aowx7UWdMJRmM-KbZaCbAVaw22vRIYBM&dib_tag=se&keywords=Adafruit+Feather+M4+Express&qid=1718292758&sprefix=%2Caps%2C165&sr=8-1">Link</a>
+| PM2.5 Air Quality Sensor and Breadboard Adapter Kit | Measure and Monitor the Concentration of Particulate Matter in The Air | $39.95 | <a href="https://www.amazon.com/PMS5003-Detection-Particle-Concentration-Conditioning/dp/B0BHZTCK8J/ref=sr_1_1 crid=1MTC4BPFGF7YP&dib=eyJ2IjoiMSJ9.Q5l9KVfoO64sWIyO7qsyM0GcCPshkMrn_Weu5F2PIn23f8d6b2h9XQPTN8xWQHmy.Dzrwiy4e4nkRlmfB6bQRW1RK2i8YGG48ojwiBAyZsJM&dib_tag=se&keywords=PM2.5+Air+Quality+Sensor+and+Breadboard+Adapter+Kit&qid=1718292832&sprefix=pm2.5+air+quality+sensor+and+breadboard+adapter+kit%2Caps%2C164&sr=8-1">Link</a> |
+| Adafruit BME280 I2C | Measuring Environmental Condition | $14.95 | <a href="https://www.amazon.com/Adafruit-BME280-Temperature-Humidity-Pressure/dp/B013W1AJUY/ref=sr_1_1?crid=22XKT4EI6O3OH&dib=eyJ2IjoiMSJ9.oeZY4mNmH8Va9ODhjTA2CTFM7DP8o2WHvwCKsIa9N8sUChLpZD14RJZPrGGmml_p-bPppjz0UMe88JdVoRJy_n_szLZWR2xR8R7399NiwRMlSJ9hKhv7ppn-rxhrueVci455iLgV2Zy-jF5h2v0ECfpwj9gndDY63yEpg4ujUgkw354EQkgMvr5tjyb6ypuLdeXVLFzwOnlAG2WzD0yly9C8p8hpzYqlW-17WkMF3Dc.omSIxoc0xIJYtVbjd2BoMkuC5xnfWWkAj6vJWrYiQbM&dib_tag=se&keywords=Adafruit+BME280+I2C&qid=1718292855&sprefix=pm2.5+air+quality+sensor+and+breadboard+adapter+kit%2Caps%2C129&sr=8-1">Link</a> |
+| FeatherWing Doubler | Extend The Functionality of Adafruit Feather Boards | $7.50 | <a href="https://www.amazon.com/FeatherWing-Doubler-Prototyping-Add-Feather/dp/B01B2GZF64/ref=sr_1_1?crid=2L1DAIHPE8XUY&dib=eyJ2IjoiMSJ9.Ts6UwLVLy6DpVXyU82IK0T-kAE_QXWjHP-UohHSD4wjGjHj071QN20LucGBJIEps.ahIec1G_1-xkqKioH5hcjtljz4To8MEXtN-oUbjf3Kg&dib_tag=se&keywords=FeatherWing+Doubler&qid=1718292880&sprefix=adafruit+bme280+i2c%2Caps%2C906&sr=8-1">Link</a> |
+| Power Bank and Solar Charger | Allows for charging and storing of power | $299.99 | <a href="https://www.amazon.com/dp/B0C4JTVBBH?psc=1&ref=product_details">Link</a> |
+| PETG 3D Printing Material| Allows for outdoor use and longer lifespan | $13.99 | <a href="https://www.amazon.com/HZST3D-PETG-Filament-Material-Printing/dp/B0BHKNDCLZ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1DX1QGBJ20KN6">Link</a> |
 
 <!--
 - What you've accomplished since your previous milestone
@@ -339,14 +350,6 @@ Before I began building my starter project, I learned how to solder and wire thr
 
 ## Challenges 
 Through the construction of my starter project, I learned many crucial lessons and gained invaluable educational experiences. To be able to successfully assemble my project, I honed my soldering techniques, and deepened my understanding of the roles of each electronic components that I will use such as resistors which limit the amount of voltages that go through the circuit, and capacitors that temporarily store electrical energy. Additionally, I developed essential troubleshooting skills to resolve any possible setbacks during my project. These steps formed a critical foundation for me towards the assembly of components in this project.
-
-
-## Components Used
-
-| **Battery** | **Circuits** | **Voltage/Current** | **Other Components** |
-|:--:|:--:|:--:|:--:|
-| 1x Battery Holder | 1x Intergraded Circuit | 1x Capacitor | 17x Input Buttons |
-| 1x Battery | 1x Circuit Board | 1x Diodes | 1x Display |
 
 # Schematics 
 <img src="https://i.ibb.co/s3NJJN6/Copy-of-Calculator.png" alt="Calculator Image">
@@ -400,17 +403,12 @@ else:
     print("Invalid input")
 ```
 
-# Bill of Materials
+## Components Used
 
-| **Part** | **Note** | **Price** | **Link** |
+| **Battery** | **Circuits** | **Voltage/Current** | **Other Components** |
 |:--:|:--:|:--:|:--:|
-| Adafruit Feather M4 Express | Microcontroller Board | $22.95 | <a href="https://www.amazon.com/Adafruit-Feather-M4-Express-Featuring/dp/B07FB365TQ/ref=sr_1_1?crid=2FKMNXNN4WFSM&dib=eyJ2IjoiMSJ9.RcVg2ylFF85s17cYBRQ3E0LiOrgFDOg1Nc9Nnvs4fkKL06mtLBpRg6Q8SMOKfY93xgI2psomqlg1jG80YSajXJDDiAT8cnurmcbTbXirBBTzE66w2iISLA_P8NZU5BQYcSCYhZ9jscGcGi1RkXglIvQnres-_2rqrYlGNULqIMJBMrGdRnsoa6HlQtvqy3ZN6CS54hqqAvLkR04cXa3UYS-K5DgjIX8-7-WGHEoa0OE.UT19JpofY43Aowx7UWdMJRmM-KbZaCbAVaw22vRIYBM&dib_tag=se&keywords=Adafruit+Feather+M4+Express&qid=1718292758&sprefix=%2Caps%2C165&sr=8-1">Link</a> |
-| Adafruit AirLift FeatherWing | Add-on board Designed To Provide Wi-Fi Capabilities to Microcontroller Projects | $12.95 | <a href="https://www.amazon.com/Adafruit-Feather-M4-Express-Featuring/dp/B07FB365TQ/ref=sr_1_1?crid=2FKMNXNN4WFSM&dib=eyJ2IjoiMSJ9.RcVg2ylFF85s17cYBRQ3E0LiOrgFDOg1Nc9Nnvs4fkKL06mtLBpRg6Q8SMOKfY93xgI2psomqlg1jG80YSajXJDDiAT8cnurmcbTbXirBBTzE66w2iISLA_P8NZU5BQYcSCYhZ9jscGcGi1RkXglIvQnres-_2rqrYlGNULqIMJBMrGdRnsoa6HlQtvqy3ZN6CS54hqqAvLkR04cXa3UYS-K5DgjIX8-7-WGHEoa0OE.UT19JpofY43Aowx7UWdMJRmM-KbZaCbAVaw22vRIYBM&dib_tag=se&keywords=Adafruit+Feather+M4+Express&qid=1718292758&sprefix=%2Caps%2C165&sr=8-1">Link</a>
-| PM2.5 Air Quality Sensor and Breadboard Adapter Kit | Measure and Monitor the Concentration of Particulate Matter in The Air | $39.95 | <a href="https://www.amazon.com/PMS5003-Detection-Particle-Concentration-Conditioning/dp/B0BHZTCK8J/ref=sr_1_1 crid=1MTC4BPFGF7YP&dib=eyJ2IjoiMSJ9.Q5l9KVfoO64sWIyO7qsyM0GcCPshkMrn_Weu5F2PIn23f8d6b2h9XQPTN8xWQHmy.Dzrwiy4e4nkRlmfB6bQRW1RK2i8YGG48ojwiBAyZsJM&dib_tag=se&keywords=PM2.5+Air+Quality+Sensor+and+Breadboard+Adapter+Kit&qid=1718292832&sprefix=pm2.5+air+quality+sensor+and+breadboard+adapter+kit%2Caps%2C164&sr=8-1">Link</a> |
-| Adafruit BME280 I2C | Measuring Environmental Condition | $14.95 | <a href="https://www.amazon.com/Adafruit-BME280-Temperature-Humidity-Pressure/dp/B013W1AJUY/ref=sr_1_1?crid=22XKT4EI6O3OH&dib=eyJ2IjoiMSJ9.oeZY4mNmH8Va9ODhjTA2CTFM7DP8o2WHvwCKsIa9N8sUChLpZD14RJZPrGGmml_p-bPppjz0UMe88JdVoRJy_n_szLZWR2xR8R7399NiwRMlSJ9hKhv7ppn-rxhrueVci455iLgV2Zy-jF5h2v0ECfpwj9gndDY63yEpg4ujUgkw354EQkgMvr5tjyb6ypuLdeXVLFzwOnlAG2WzD0yly9C8p8hpzYqlW-17WkMF3Dc.omSIxoc0xIJYtVbjd2BoMkuC5xnfWWkAj6vJWrYiQbM&dib_tag=se&keywords=Adafruit+BME280+I2C&qid=1718292855&sprefix=pm2.5+air+quality+sensor+and+breadboard+adapter+kit%2Caps%2C129&sr=8-1">Link</a> |
-| FeatherWing Doubler | Extend The Functionality of Adafruit Feather Boards | $7.50 | <a href="https://www.amazon.com/FeatherWing-Doubler-Prototyping-Add-Feather/dp/B01B2GZF64/ref=sr_1_1?crid=2L1DAIHPE8XUY&dib=eyJ2IjoiMSJ9.Ts6UwLVLy6DpVXyU82IK0T-kAE_QXWjHP-UohHSD4wjGjHj071QN20LucGBJIEps.ahIec1G_1-xkqKioH5hcjtljz4To8MEXtN-oUbjf3Kg&dib_tag=se&keywords=FeatherWing+Doubler&qid=1718292880&sprefix=adafruit+bme280+i2c%2Caps%2C906&sr=8-1">Link</a> |
-| Power Bank and Solar Charger | Allows for charging and storing of power | $299.99 | <a href="https://www.amazon.com/dp/B0C4JTVBBH?psc=1&ref=product_details">Link</a> |
-| PETG 3D Printing Material| Allows for outdoor use and longer lifespan | $13.99 | <a href="https://www.amazon.com/HZST3D-PETG-Filament-Material-Printing/dp/B0BHKNDCLZ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1DX1QGBJ20KN6">Link</a> |
+| 1x Battery Holder | 1x Intergraded Circuit | 1x Capacitor | 17x Input Buttons |
+| 1x Battery | 1x Circuit Board | 1x Diodes | 1x Display |
 
 <!-- # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
