@@ -7,7 +7,7 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
  <img src="Jimmypng.png" alt="Headshot" style="width:200px">
 
- # First Milestone
+# First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kjlHnoHY3A0?si=sTwXQprJ3-yaH7-C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
