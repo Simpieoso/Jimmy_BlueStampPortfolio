@@ -1,4 +1,4 @@
-# Iot Air Pollution Monitor
+# IoT Air Pollution Monitor
 My main project is the Air Pollution Monitor. This project provides accurate and real-time data on air quality using a sophisticated network of integrated sensors and complex softwares. It is an initiative that marks a significant step forward to fight against environmental pollution and promote a clearner and healhier Earth. I chose this project because it delves into the statstics of air pollution, this is vital to raising awareness of the polluted air that we breath in. This project also teached me the background of climate change and the effects caused by air polluton. For example, humid air traps pollutants close to the ground and prevents them from dispersing into the atmosphere, this increases the pollutants in the air that we breath and it is extremely harmful to our lungs, this effect is significantly increased in urban areas.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
