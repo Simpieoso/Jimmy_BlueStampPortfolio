@@ -337,15 +337,14 @@ Before I began building my starter project, I learned how to solder and wire thr
 ## Challenges 
 Through the construction of my starter project, I learned many crucial lessons and gained invaluable educational experiences. To be able to successfully assemble my project, I honed my soldering techniques, and deepened my understanding of the roles of each electronic components that I will use such as resistors which limit the amount of voltages that go through the circuit, and capacitors that temporarily store electrical energy. Additionally, I developed essential troubleshooting skills to resolve any possible setbacks during my project. These steps formed a critical foundation for me towards the assembly of components in this project.
 
+
 ## Components Used
-1x Intergraded Circuit
-1x Display
-17x Input Buttons
-1x Capacitor
-1x Circuit Board
-1x Battery
-1x Battery Holder
-1x Diodes
+
+| **Part** | **Part** | **Part** | **Part** |
+|:--:|:--:|:--:|:--:|
+| 1x Intergraded Circuit | 17x Input Buttons | 1x Capacitor | 1x Circuit Board |
+| 1x Battery | 1x Battery Holder | 1x Diodes | 1x Display |
+| 17x Input Buttons | 1x Capacitor | 1x Battery | 1x Battery Holder
 
 # Schematics 
 <img src="https://i.ibb.co/s3NJJN6/Copy-of-Calculator.png" alt="Calculator Image">
