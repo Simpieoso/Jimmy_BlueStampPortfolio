@@ -7,30 +7,22 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
  <img src="Jimmypng.png" alt="Headshot" style="width:200px">
 
-# Final Milestone
+ # First Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dXnVTu0mpJo?si=jdoMR3lpmP9R4Jg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjlHnoHY3A0?si=sTwXQprJ3-yaH7-C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<!-- For your first milestone, describe what your project is and how you plan to build it. You can include: -->
 ## Summary
-
-For my final milestone, I planned to begin designing my enclosure and also collect data over several days to verify the functionality of my project. Since my last milestone, I've collected roughly 3 days worth of data and at different pleaces. For example, at BSE the AQI quality was good and at home it was moderate. This shows that my project works and also practical to test home air qualities. Secondly, while I waited for the data to collect and upload I began designing my enclosure and modifications. I've gone from a simple single box enclosure designs to a multiboxed and enviromental friendly enclosure that uses recyclable 3d printing material. I intinally planned on a single enclosure with a locking mechanism, however, due to complications with accessing the project and dampness issues that may occure on rainly days. I changed the idea from a single box enclosure to instead use two boxes that interlocks with one another and allows for wiring through the interlocking part. This design took me a long time to come up with but after careful and precise planning, I drew the skeleton of my final blueprint.
+My first milestone for my main project in creating a DIY air quality monitor involves the physical assembly of the device. I began by gathering all necessary hardware components, including sensors and a microcontroller. The assembly started with soldering headers onto the Feather boards and sensors for secure connections. Next, I wired these components together according to the detailed circuit diagram provided in the guide. Later, I will secure the finished hardware components into a secure box, this step will be done after the software has been coded. I will print this secure box using 3d printing programs. This step is crucial as it ensures the stability and durability of the monitor under various environmental conditions.
 
 ## Challenges
+Some challenges I faced during my first milestone was the soldering. I had burnt one of my boards and to fix it, I replaced it with a newer one and approached it differently this time. I used a differnt soldering tool, I carefully planned where I would solder and how I would do it before I acted. My first milestone consisted of multiple setbacks due to incorrect soldering, as an advice to anyone, I would recommend to plan or test the project fully before the real assemby. My biggest mistake was to not test my project on a bread board before soldering it together. In the end though it all worked out, I was able to solder a different board to my project and it ended up working fine.
 
-As for my challenges, I would like to talk about my challenges on both my start and main project on my final milestone and also the challenges I've faced at BSE. My start project was fairly simple and easy to understand, although most of the project involved soldering and not as much software, I still struggled as it was my first time soldering. The most difficult part of my start project was defitnetly the soldering, not because I wasn't profecient in it but rather becase the soldering iron I was given was defective and took a long time to heat and would not reach high enough temperature to melt the soldering iron. All in all, my starter project wasn't too challenging and intead I think it was a fun and enjoyable experience that helped me ease into my main project. During my main project was where I faced the most trouble and complications, the instructions I was given was unclear and incorrect. Multiple steps in the instructions led me further away from completing the project, I worked with an instructor to debug the software and through many hours of debugging, we found out that there were also hardware issues such as, wiring into incorrect slots and missing wires that the instructions caused. It took a lot of time to finish debugging my project and fixing the code, the hardware was fairly easy but still gave me plenty of trouble. All in all, at BSE I believe that through the help of instructos any challenges can be faced. Im glad that I was able to run into these errors as it gave me a learning opportunity and a better way to connect with other students and instructos at BSE.
-
-
-## Blueprints
-
-<img src="Untitled design.png" style="width:450px">
-
-
-<!--
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
--->
+## Images of Assembly
+<img src="pm25.png" style="width:450px">
+<img src="b4.png" style="width:450px">
+<img src="2b.png" style="width:450px">
+<img src="final.png" style="width:450px">
 
 # Second Milestone
 
@@ -309,22 +301,30 @@ while True:
     time.sleep(30)
 ```
 
-# First Milestone
+# Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kjlHnoHY3A0?si=sTwXQprJ3-yaH7-C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dXnVTu0mpJo?si=jdoMR3lpmP9R4Jg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- For your first milestone, describe what your project is and how you plan to build it. You can include: -->
 ## Summary
-My first milestone for my main project in creating a DIY air quality monitor involves the physical assembly of the device. I began by gathering all necessary hardware components, including sensors and a microcontroller. The assembly started with soldering headers onto the Feather boards and sensors for secure connections. Next, I wired these components together according to the detailed circuit diagram provided in the guide. Later, I will secure the finished hardware components into a secure box, this step will be done after the software has been coded. I will print this secure box using 3d printing programs. This step is crucial as it ensures the stability and durability of the monitor under various environmental conditions.
+
+For my final milestone, I planned to begin designing my enclosure and also collect data over several days to verify the functionality of my project. Since my last milestone, I've collected roughly 3 days worth of data and at different pleaces. For example, at BSE the AQI quality was good and at home it was moderate. This shows that my project works and also practical to test home air qualities. Secondly, while I waited for the data to collect and upload I began designing my enclosure and modifications. I've gone from a simple single box enclosure designs to a multiboxed and enviromental friendly enclosure that uses recyclable 3d printing material. I intinally planned on a single enclosure with a locking mechanism, however, due to complications with accessing the project and dampness issues that may occure on rainly days. I changed the idea from a single box enclosure to instead use two boxes that interlocks with one another and allows for wiring through the interlocking part. This design took me a long time to come up with but after careful and precise planning, I drew the skeleton of my final blueprint.
 
 ## Challenges
-Some challenges I faced during my first milestone was the soldering. I had burnt one of my boards and to fix it, I replaced it with a newer one and approached it differently this time. I used a differnt soldering tool, I carefully planned where I would solder and how I would do it before I acted. My first milestone consisted of multiple setbacks due to incorrect soldering, as an advice to anyone, I would recommend to plan or test the project fully before the real assemby. My biggest mistake was to not test my project on a bread board before soldering it together. In the end though it all worked out, I was able to solder a different board to my project and it ended up working fine.
 
-## Images of Assembly
-<img src="pm25.png" style="width:450px">
-<img src="b4.png" style="width:450px">
-<img src="2b.png" style="width:450px">
-<img src="final.png" style="width:450px">
+As for my challenges, I would like to talk about my challenges on both my start and main project on my final milestone and also the challenges I've faced at BSE. My start project was fairly simple and easy to understand, although most of the project involved soldering and not as much software, I still struggled as it was my first time soldering. The most difficult part of my start project was defitnetly the soldering, not because I wasn't profecient in it but rather becase the soldering iron I was given was defective and took a long time to heat and would not reach high enough temperature to melt the soldering iron. All in all, my starter project wasn't too challenging and intead I think it was a fun and enjoyable experience that helped me ease into my main project. During my main project was where I faced the most trouble and complications, the instructions I was given was unclear and incorrect. Multiple steps in the instructions led me further away from completing the project, I worked with an instructor to debug the software and through many hours of debugging, we found out that there were also hardware issues such as, wiring into incorrect slots and missing wires that the instructions caused. It took a lot of time to finish debugging my project and fixing the code, the hardware was fairly easy but still gave me plenty of trouble. All in all, at BSE I believe that through the help of instructos any challenges can be faced. Im glad that I was able to run into these errors as it gave me a learning opportunity and a better way to connect with other students and instructos at BSE.
+
+
+## Blueprints
+
+<img src="Untitled design.png" style="width:450px">
+
+
+<!--
+- What you've accomplished since your previous milestone
+- What your biggest challenges and triumphs were at BSE
+- A summary of key topics you learned about
+- What you hope to learn in the future after everything you've learned at BSE
+-->
 
 # Starter Project
 
