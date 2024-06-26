@@ -321,7 +321,10 @@ My first milestone for my main project in creating a DIY air quality monitor inv
 Some challenges I faced during my first milestone was the soldering. I had burnt one of my boards and to fix it, I replaced it with a newer one and approached it differently this time. I used a differnt soldering tool, I carefully planned where I would solder and how I would do it before I acted. My first milestone consisted of multiple setbacks due to incorrect soldering, as an advice to anyone, I would recommend to plan or test the project fully before the real assemby. My biggest mistake was to not test my project on a bread board before soldering it together. In the end though it all worked out, I was able to solder a different board to my project and it ended up working fine.
 
 ## Images of Assembly
-<img src="Untitled design.png" style="width:450px">
+<img src="pm25.png" style="width:450px">
+<img src="b4.png" style="width:450px">
+<img src="2b.png" style="width:450px">
+<img src="final.png" style="width:450px">
 
 # Starter Project
 
