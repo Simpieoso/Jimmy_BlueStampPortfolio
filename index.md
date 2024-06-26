@@ -342,9 +342,8 @@ Through the construction of my starter project, I learned many crucial lessons a
 
 | **Part** | **Part** | **Part** | **Part** |
 |:--:|:--:|:--:|:--:|
-| 1x Intergraded Circuit | 17x Input Buttons | 1x Capacitor | 1x Circuit Board |
-| 1x Battery | 1x Battery Holder | 1x Diodes | 1x Display |
-| 17x Input Buttons | 1x Capacitor | 1x Battery | 1x Battery Holder
+| 1x Battery Holder | 1x Intergraded Circuit | 1x Capacitor | 17x Input Buttons |
+| 1x Battery | 1x Circuit Board | 1x Diodes | 1x Display |
 
 # Schematics 
 <img src="https://i.ibb.co/s3NJJN6/Copy-of-Calculator.png" alt="Calculator Image">
