@@ -16,6 +16,10 @@ aaaAAAaaAaAaAAaAAAAAAaaAAAA
 
 ## Summary
 For my modifications, I had brainstormed multiple ideas such as a solar powered battery, an airtight container, fingerprint locks and much more. I tried to put my project into real life use and make it as practical as possible. This was especially challenging because thermostats and air quality sensors are pretty common and used often in daily life, as a result, I designed my box for both indoor and outdoor use by using specific 3D printing material called PETG, this material allows for longer lifespans and is also more resistant to harsh weather. Furthermore, I thought about extending the lifespan of my air quality sensors. After a deep search to learn more about my project I learned that an air quality sensor like the PM2.5 only lasts about 2 to 3 years. As a way to solve this problem, I plan to use a power bank to regulate the voltage and provide a reliable power source and after though testing, I learned that uploading data after a longer period of time will draw less power and ultimately extent the lifespan of my air quality sensor. I've also thought about how to charge my project. Having to disassemble my project everytime in order to charge it is not efficient at all, so I used a solar panel to charge the power bank. Additionally to improvise my modifications, I used doweling and half blind dovetail techniques to further ensure the safety and security of my box and its contents. 
+
+<img src="des1.png" style="width:450px">
+<img src="des.png" style="width:450px">
+
 <!--
 ## Challlenges -->
 
