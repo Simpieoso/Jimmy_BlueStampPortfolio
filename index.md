@@ -340,7 +340,7 @@ Through the construction of my starter project, I learned many crucial lessons a
 
 ## Components Used
 
-| **Part** | **Part** | **Part** | **Part** |
+| **Battery** | **Circuits** | **Voltage/Current** | **Other Components** |
 |:--:|:--:|:--:|:--:|
 | 1x Battery Holder | 1x Intergraded Circuit | 1x Capacitor | 17x Input Buttons |
 | 1x Battery | 1x Circuit Board | 1x Diodes | 1x Display |
