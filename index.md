@@ -13,6 +13,13 @@ My main project is the Air Pollution Monitor. This project provides accurate and
   <source src="IMG_3990.mp4" type="video/mp4">
 </video>
 
+## Presentation
+
+ <img src="IMG_2429.png" alt="Headshot" style="width:200px">
+ <img src="IMG_2430.png" alt="Headshot" style="width:200px">
+ <img src="IMG_2431.png" alt="Headshot" style="width:200px">
+ <img src="IMG_2432.png" alt="Headshot" style="width:200px">
+
 # Modifications
 
 ## Summary
