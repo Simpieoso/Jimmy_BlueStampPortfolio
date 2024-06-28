@@ -15,10 +15,11 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
 ## Presentation
 
- <img src="IMG_2429.png" alt="Headshot" style="width:200px">
- <img src="IMG_2432.png" alt="Headshot" style="width:200px">
- <img src="IMG_2430.png" alt="Headshot" style="width:200px">
- <img src="IMG_2431.png" alt="Headshot" style="width:200px">
+ <img src="IMG_2429.png" alt="Headshot" style="width:300px">   <img src="IMG_2432.png" alt="Headshot" style="width:300px">
+ <img src="IMG_2430.png" alt="Headshot" style="width:150px">    <img src="IMG_2431.png" alt="Headshot" style="width:150px">
+
+ ## Description
+ Throughout my time at Blue Stamp Engineering, I learned many things. Not only engineering skills, I learned how to communicate with a team, how to troubleshoot and how to think like a programmer, I learned how to make new connections with people and build a friendship. I enjoyed building my project and I love the 
 
 # Modifications
 
