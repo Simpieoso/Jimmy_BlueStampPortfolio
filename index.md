@@ -11,7 +11,6 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
 <video width="600" controls>
   <source src="IMG_3990.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 # Modifications
