@@ -9,7 +9,7 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
 # Final Product
 
-<video width="600" controls>
+<video width="600" height="315" controls>
   <source src="IMG_3990.mp4" type="video/mp4">
 </video>
 
