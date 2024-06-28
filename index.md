@@ -7,10 +7,11 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
  <img src="Jimmypng.png" alt="Headshot" style="width:200px">
 
-<!--# Final Product
+# Final Product
 
-aaaAAAaaAaAaAAaAAAAAAaaAAAA
--->
+<video width="320" height="240" controls>
+  <source src="IMG_3990.mov" type="video/mp4">
+</video>
 
 # Modifications
 
