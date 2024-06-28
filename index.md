@@ -18,7 +18,7 @@ My main project is the Air Pollution Monitor. This project provides accurate and
  <img src="IMG_2429.png" alt="Headshot" style="width:300px">   <img src="IMG_2432.png" alt="Headshot" style="width:300px">
 
 ## Description
-Throughout my time at Blue Stamp Engineering, I learned many things. Not only engineering skills, I learned how to communicate with a team, how to troubleshoot and how to think like a programmer, I learned how to make new connections with people and build a friendship. I enjoyed building my project and I love the 
+Throughout my time at Blue Stamp Engineering, I learned many things. Not only engineering skills, I learned how to communicate with a team, how to troubleshoot and how to think like a programmer, I learned how to make new connections with people and build a friendship. I enjoyed building my project and I love the envoirnment I worked in, BSE taught me a lot and gave me a deeper understanding about not only engineering but also about about myself as an indivisual. All in all, at BSE I learned many critical skills and made many connections with my fellow classmates and I really enjoyed working with all the instructors. 
 
 # Modifications
 
