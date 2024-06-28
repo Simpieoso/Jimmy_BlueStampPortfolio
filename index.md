@@ -9,8 +9,9 @@ My main project is the Air Pollution Monitor. This project provides accurate and
 
 # Final Product
 
-<video width="320" height="240" controls>
+<video width="600" controls>
   <source src="IMG_3990.mov" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 # Modifications
